@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">RockPaperGame</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="button_go">Go!</string>
     <string name="action_settings">Settings</string>
 </resources>
